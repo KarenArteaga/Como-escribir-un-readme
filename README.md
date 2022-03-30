@@ -33,14 +33,18 @@ Un archivo .md es un documento de texto simple en lenguaje Markdown que permite 
 ## ¿Cómo escribir un README.md? <a name="escribir"></a> 
 La forma más fácil de escribir un README.md por primera vez seguir una plantilla:
 [Puedes encontrar una plantilla aquí](https://github.com/KarenArteaga/Como-escribir-un-readme/blob/main/plantillaREADME.md)
-![README]<https://user-images.githubusercontent.com/69361149/160894945-31e1f62c-bf84-4d31-b691-b71089ab5939.png)
+
+
+![README](https://user-images.githubusercontent.com/69361149/160894945-31e1f62c-bf84-4d31-b691-b71089ab5939.png)
 
 
 ## Preguntas frecuentes
 - ¿Cómo puedo mejorar mis archivos README.md? 
+
 Puedes encontrar más información sobre Markdown en: https://www.markdownguide.org/basic-syntax/
 
 - ¿Por qué documentar mis proyectos?
+
 Puedes encontrar información aquí: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
 
 

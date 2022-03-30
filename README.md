@@ -22,7 +22,7 @@ Un archivo README es un documento que contiene información básica acerca de tu
 Un archivo .md es un documento de texto simple en lenguaje Markdown que permite editar texto de manera sencilla y legible. 
 
 
-## ¿Cómo crear un README? <a name="crear"></a> 
+## ¿Cómo crear un README.md? <a name="crear"></a> 
 1. Agrega un archivo llamado "README.md" a la raíz de tu repositorio.
 ![Agregar](https://user-images.githubusercontent.com/69361149/160881836-d3aadc69-5637-41bb-91ae-9efd46c26e8a.png)
 3. Edita el contendio de tu archivo README.md con la información básica sobre tu proyecto.

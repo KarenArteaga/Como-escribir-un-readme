@@ -4,9 +4,9 @@
 Marzo 2022
 
 ## Tabla de contenidos
-* [¿Qué es un README?](#introduccion)
-* [¿Cómo crear un README?](#crear)
-* [¿Cómo escribir un README?](#escribir)
+* [¿Qué es un README.md?](#introduccion)
+* [¿Cómo crear un README.md?](#crear)
+* [¿Cómo escribir un README.md?](#escribir)
 * [Contacto](#contacto)
 ---
 

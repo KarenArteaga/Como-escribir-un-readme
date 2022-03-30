@@ -10,8 +10,8 @@ Marzo 2022
 * [Contacto](#contacto)
 ---
 
-
-## ¿Qué es un README.md? <a name="introduccion"></a> 
+ ![introduccion] <a name="introduccion"></a> 
+## ¿Qué es un README.md?
 Un archivo README es un documento que contiene información básica acerca de tu proyecto. Generalmente, es la primera interacción que los usuarios tienen con el contenido de tu repositorio. El archivo README permite a los visitantes entender:
 - Qué hace el proyecto
 - Por qué existe el proyecto

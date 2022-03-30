@@ -40,7 +40,7 @@ La forma más fácil de escribir un README.md por primera vez seguir una plantil
 [Puedes encontrar una plantilla aquí](https://github.com/KarenArteaga/Como-escribir-un-readme/blob/main/plantillaREADME.md)
 
 
-![README](https://user-images.githubusercontent.com/69361149/160894945-31e1f62c-bf84-4d31-b691-b71089ab5939.png)
+![README](src="https://user-images.githubusercontent.com/69361149/160939254-f2afb101-ebe0-46a7-8c5e-fdbb27a20d4e.png)
 
 
  <a name="preguntas"></a> 

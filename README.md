@@ -7,10 +7,12 @@ Marzo 2022
 * [¿Qué es un README.md?](#introduccion)
 * [¿Cómo crear un README.md?](#crear)
 * [¿Cómo escribir un README.md?](#escribir)
+* [Preguntas frecuentes](#preguntas)
 * [Contacto](#contacto)
 ---
 
- ![introduccion] <a name="introduccion"></a> 
+
+<a name="introduccion"></a> 
 ## ¿Qué es un README.md?
 Un archivo README es un documento que contiene información básica acerca de tu proyecto. Generalmente, es la primera interacción que los usuarios tienen con el contenido de tu repositorio. El archivo README permite a los visitantes entender:
 - Qué hace el proyecto
@@ -22,7 +24,8 @@ Un archivo README es un documento que contiene información básica acerca de tu
 Un archivo .md es un documento de texto simple en lenguaje Markdown que permite editar texto de manera sencilla y legible. 
 
 
-## ¿Cómo crear un README.md? <a name="crear"></a> 
+<a name="crear"></a> 
+## ¿Cómo crear un README.md? 
 1. Agrega un archivo llamado "README.md" a la raíz de tu repositorio.
 ![Agregar](https://user-images.githubusercontent.com/69361149/160881836-d3aadc69-5637-41bb-91ae-9efd46c26e8a.png)
 3. Edita el contendio de tu archivo README.md con la información básica sobre tu proyecto.
@@ -30,7 +33,8 @@ Un archivo .md es un documento de texto simple en lenguaje Markdown que permite 
 - Nota: Es importante que tu archivo se llame "README" para que GitHub lo reconozca y lo ponga como página principal de tu repositorio.
 
 
-## ¿Cómo escribir un README.md? <a name="escribir"></a> 
+ <a name="escribir"></a> 
+## ¿Cómo escribir un README.md?
 La forma más fácil de escribir un README.md por primera vez seguir una plantilla:
 [Puedes encontrar una plantilla aquí](https://github.com/KarenArteaga/Como-escribir-un-readme/blob/main/plantillaREADME.md)
 
@@ -38,6 +42,7 @@ La forma más fácil de escribir un README.md por primera vez seguir una plantil
 ![README](https://user-images.githubusercontent.com/69361149/160894945-31e1f62c-bf84-4d31-b691-b71089ab5939.png)
 
 
+ <a name="preguntas"></a> 
 ## Preguntas frecuentes
 - ¿Cómo puedo mejorar mis archivos README.md? 
 

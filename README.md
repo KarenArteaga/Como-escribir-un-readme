@@ -14,7 +14,7 @@ Marzo 2022
 
 <a name="introduccion"></a> 
 ## ¿Qué es un README.md?
-La mejor forma para comunicar a los visitantes de tu repositorio en GitHub acerca de tu proyecto es crear un archivo README.md. Un archivo README es un documento que contiene información básica acerca de tu proyecto. Generalmente, es la primera interacción que los usuarios tienen con el contenido de tu repositorio. El archivo README permite a los visitantes entender:
+La mejor forma de informar a los visitantes de tu repositorio acerca de tu proyecto es crear un README.md. Un archivo README es un documento que contiene información básica acerca de tu proyecto. Generalmente, es la primera interacción que los usuarios tienen con el contenido de tu repositorio. El archivo README permite a los visitantes entender:
 - Qué hace el proyecto
 - Por qué existe el proyecto
 - Cómo se replica el contenido del proyecto

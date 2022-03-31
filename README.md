@@ -46,6 +46,7 @@ La forma más fácil de escribir un README.md por primera vez seguir una plantil
  <a name="preguntas"></a> 
 ## Preguntas frecuentes
 - ¿Por qué documentar tus proyectos?
+
 Las principales ventajas de documentar tus proyectos son:
 1. Entender por qué existe, de que se trata y cómo se usa tu proyecto.
 3. Permitir que otras personas usen tu proyecto.

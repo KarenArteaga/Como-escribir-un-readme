@@ -1,5 +1,5 @@
 # Guía básica para escribir un README.md en GitHub
->  Una guía para aprender a documentar tus proyectos con un archivo README.md
+>  Una guía para aprender a documentar tus proyectos con un archivo README.md.
 ---
 Marzo 2022
 
@@ -14,7 +14,7 @@ Marzo 2022
 
 <a name="introduccion"></a> 
 ## ¿Qué es un README.md?
-Un archivo README es un documento que contiene información básica acerca de tu proyecto. Generalmente, es la primera interacción que los usuarios tienen con el contenido de tu repositorio. La mejor forma para comunicar a los visitantes de tu repositorio en GitHub acerca de tu proyecto es crear un archivo README.md. El archivo README permite a los visitantes entender:
+La mejor forma para comunicar a los visitantes de tu repositorio en GitHub acerca de tu proyecto es crear un archivo README.md. Un archivo README es un documento que contiene información básica acerca de tu proyecto. Generalmente, es la primera interacción que los usuarios tienen con el contenido de tu repositorio. El archivo README permite a los visitantes entender:
 - Qué hace el proyecto
 - Por qué existe el proyecto
 - Cómo se replica el contenido del proyecto
@@ -45,10 +45,6 @@ La forma más fácil de escribir un README.md por primera vez seguir una plantil
 
  <a name="preguntas"></a> 
 ## Preguntas frecuentes
-- ¿Cómo puedes mejorar tus archivos README.md? 
-
-Puedes encontrar más información sobre Markdown en: https://www.markdownguide.org/basic-syntax/
-
 - ¿Por qué documentar tus proyectos?
 Las principales ventajas de documentar tus proyectos son:
 1. Entender por qué existe, de que se trata y cómo se usa tu proyecto.
@@ -58,6 +54,10 @@ Las principales ventajas de documentar tus proyectos son:
 6. Mejorar tus habilidades de escritura.
 
 Puedes encontrar información aquí: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+
+- ¿Cómo puedes mejorar tus archivos README.md? 
+
+Puedes encontrar más información sobre Markdown en: https://www.markdownguide.org/basic-syntax/
 
 
 ## Contacto

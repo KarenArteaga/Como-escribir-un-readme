@@ -1,5 +1,5 @@
 # Guía básica para escribir un README.md en GitHub
->  La mejor forma para comunicar a los visitantes de tu repositorio en GitHub acerca de tu proyecto es crear un archivo README.
+>  Una guía para aprender a documentar tus proyectos con un archivo README.md
 ---
 Marzo 2022
 
@@ -14,14 +14,14 @@ Marzo 2022
 
 <a name="introduccion"></a> 
 ## ¿Qué es un README.md?
-Un archivo README es un documento que contiene información básica acerca de tu proyecto. Generalmente, es la primera interacción que los usuarios tienen con el contenido de tu repositorio. El archivo README permite a los visitantes entender:
+Un archivo README es un documento que contiene información básica acerca de tu proyecto. Generalmente, es la primera interacción que los usuarios tienen con el contenido de tu repositorio. La mejor forma para comunicar a los visitantes de tu repositorio en GitHub acerca de tu proyecto es crear un archivo README.md. El archivo README permite a los visitantes entender:
 - Qué hace el proyecto
 - Por qué existe el proyecto
 - Cómo se replica el contenido del proyecto
 - Cómo pedir ayuda acerca del proyecto
-- Quién conribuye al proyecto
+- Quién contribuye al proyecto
 
-Un archivo .md es un documento de texto simple en lenguaje Markdown que permite editar texto de manera sencilla y legible. 
+Un archivo .md es un documento de texto simple en lenguaje Markdown que permite editar texto de manera sencilla y legible.  
 
 
 <a name="crear"></a> 
@@ -45,14 +45,19 @@ La forma más fácil de escribir un README.md por primera vez seguir una plantil
 
  <a name="preguntas"></a> 
 ## Preguntas frecuentes
-- ¿Cómo puedo mejorar mis archivos README.md? 
+- ¿Cómo puedes mejorar tus archivos README.md? 
 
 Puedes encontrar más información sobre Markdown en: https://www.markdownguide.org/basic-syntax/
 
-- ¿Por qué documentar mis proyectos?
+- ¿Por qué documentar tus proyectos?
+Las principales ventajas de documentar tus proyectos son:
+1. Entender por qué existe, de que se trata y cómo se usa tu proyecto.
+3. Permitir que otras personas usen tu proyecto.
+4. Permitir que otras personas contribuyan a tu proyecto.
+5. Mejorar el diseño de tu código.
+6. Mejorar tus habilidades de escritura.
 
 Puedes encontrar información aquí: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
-
 
 
 ## Contacto
